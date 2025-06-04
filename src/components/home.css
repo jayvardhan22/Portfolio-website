@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+  #home .absolute {
+    background-image: none !important;  
+    background-color: white !important;
+  }
+}
