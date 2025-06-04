@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.5ae991c8.css",
+    "main.js": "/Portfolio-website/static/js/main.e9983359.js",
+    "static/js/453.aac68abc.chunk.js": "/Portfolio-website/static/js/453.aac68abc.chunk.js",
+    "static/media/eventos.png": "/Portfolio-website/static/media/eventos.f211b1f0250ef41e122c.png",
+    "static/media/Allura UI Windows (2).svg": "/Portfolio-website/static/media/Allura UI Windows (2).aaeb75122d815c9f182126c17ff7932e.svg",
+    "static/media/30285.jpg": "/Portfolio-website/static/media/30285.cd3759d2b73310adf37f.jpg",
+    "static/media/mi-portal.png": "/Portfolio-website/static/media/mi-portal.d7a18ef989551fb3cf18.png",
+    "static/media/Group 27 (1).svg": "/Portfolio-website/static/media/Group 27 (1).6d2f9bb82f8ea58532c005557060326e.svg",
+    "static/media/Icono (1).png": "/Portfolio-website/static/media/Icono (1).df1450568b698dabddc3.png",
+    "static/media/Icono (2).png": "/Portfolio-website/static/media/Icono (2).87529d82cc3aaade9a0e.png",
+    "static/media/Highlight_10.svg": "/Portfolio-website/static/media/Highlight_10.0a0201bdcdf06cd84e2cfc9fa18784ae.svg",
+    "static/media/Underline_06.svg": "/Portfolio-website/static/media/Underline_06.cf5e8be55aa78ef08966d33c7df2b10e.svg",
+    "static/media/Arrow_01.svg": "/Portfolio-website/static/media/Arrow_01.b9eafd9d2754ba63341d6b1122ac8d5f.svg",
+    "static/media/Highlight_04.svg": "/Portfolio-website/static/media/Highlight_04.9cc1226df4bcf3346a5c1827be633cfb.svg",
+    "static/media/Vector-Cuadros.svg": "/Portfolio-website/static/media/Vector-Cuadros.f94fc8864e115baa31d73f52227dc859.svg",
+    "index.html": "/Portfolio-website/index.html",
+    "static/media/Patron de Puntos (2).svg": "/Portfolio-website/static/media/Patron de Puntos (2).ad6f514b4984f92083a849b81ad1955c.svg",
+    "static/media/Patron de Puntos.svg": "/Portfolio-website/static/media/Patron de Puntos.47e9255567e4f82eaecb81bc2bba1811.svg",
+    "static/media/Patron de Puntos (3).svg": "/Portfolio-website/static/media/Patron de Puntos (3).5396e048aeebff02445d58f2aef63659.svg",
+    "static/media/dots.svg": "/Portfolio-website/static/media/dots.66d9f836cbbed94532fccaea9326ba7f.svg",
+    "main.5ae991c8.css.map": "/Portfolio-website/static/css/main.5ae991c8.css.map",
+    "main.e9983359.js.map": "/Portfolio-website/static/js/main.e9983359.js.map",
+    "453.aac68abc.chunk.js.map": "/Portfolio-website/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae991c8.css",
+    "static/js/main.e9983359.js"
+  ]
+}
